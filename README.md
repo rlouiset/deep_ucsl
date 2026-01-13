@@ -1,6 +1,6 @@
 # Deep UCSL
 GitHub repository of the code and examples of Deep UCSL: "Automatic Discovery of Disease Subgroups by Contrasting with Healthy Controls".
-A paper that we submitted to IEEE TMI.
+A paper that is currently under revision.
 
 ## Abstract:
 In Subgroup Discovery, practitioners are interested in discovering interpretable and homogeneous
